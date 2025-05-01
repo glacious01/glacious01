@@ -13,7 +13,7 @@
 
 ## 🔗 Socials
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)]((https://www.linkedin.com/in/glacious-mukwevho-9a64982a7?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/glacious-mukwevho-9a64982a7?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 [![Twitter](https://img.shields.io/badge/Twitter-black?logo=twitter&style=for-the-badge)](https://x.com/glaciousm_?s=21)
 [![Instagram](https://img.shields.io/badge/Instagram-pink?logo=instagram&style=for-the-badge)](https://www.instagram.com/glacious._m?igsh=MWVpZm5tNnRoYTZ1cQ%3D%3D&utm_source=qr)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=github&logoColor=white)](https://glacious01.github.io) *(coming soon)*
