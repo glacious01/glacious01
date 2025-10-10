@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning how to speak Spanish and always exploring new programming tools and frameworks 
 - 👯 I’m looking to collaborate on any Software projects (any language)
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I love Jesus and church
+- ⚡ Fun fact: I love Jesus and tennis
 
 
   
