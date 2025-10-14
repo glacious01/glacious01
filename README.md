@@ -39,4 +39,5 @@
 
 ![glacious01's GitHub Stats](https://github-readme-stats.vercel.app/api?username=glacious01&show_icons=true&theme=github_dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=glacious01&layout=compact&theme=github_dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=glacious01&layout=compact&include_all_commits=true&count_private=true&theme=tokyonight)
 
